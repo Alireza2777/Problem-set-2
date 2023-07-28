@@ -7,5 +7,10 @@
 
 import Foundation
 
-print("Hello, World!")
 
+
+
+// Example usage:
+//processTestCases()
+//main()
+main2()

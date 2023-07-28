@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		9F06D9452A731F0F004DE58C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F06D9442A731F0F004DE58C /* main.swift */; };
+		9F06D94C2A7320B0004DE58C /* Cyclic Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F06D94B2A7320B0004DE58C /* Cyclic Permutation.swift */; };
+		9F06D94E2A7322E4004DE58C /* Repeating Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F06D94D2A7322E4004DE58C /* Repeating Sequence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		9F06D9412A731F0F004DE58C /* Problem Set 2 (Graph) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Problem Set 2 (Graph)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F06D9442A731F0F004DE58C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9F06D94B2A7320B0004DE58C /* Cyclic Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Cyclic Permutation.swift"; sourceTree = "<group>"; };
+		9F06D94D2A7322E4004DE58C /* Repeating Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Repeating Sequence.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				9F06D9442A731F0F004DE58C /* main.swift */,
+				9F06D94B2A7320B0004DE58C /* Cyclic Permutation.swift */,
+				9F06D94D2A7322E4004DE58C /* Repeating Sequence.swift */,
 			);
 			path = "Problem Set 2 (Graph)";
 			sourceTree = "<group>";
@@ -120,6 +126,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F06D94C2A7320B0004DE58C /* Cyclic Permutation.swift in Sources */,
+				9F06D94E2A7322E4004DE58C /* Repeating Sequence.swift in Sources */,
 				9F06D9452A731F0F004DE58C /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
